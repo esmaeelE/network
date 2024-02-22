@@ -1,5 +1,11 @@
 # Unix like
 
+command
+
+```man protocols```
+provide a file `/etc/protocols`
+
+
 * ```/etc/services```
 
 For each service this file specifies the service’s well-known port number and notes whether the service is available as a TCP or
